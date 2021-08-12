@@ -142,7 +142,6 @@ public class ThreadLocalDemo {
 结果如下：
 ```java
 弱引用key:java.lang.ThreadLocal@433619b6,值:abc
-弱引用key:java.lang.ThreadLocal@418a15e3,值:java.lang.ref.SoftReference@bf97a12
 --gc后--
 弱引用key:null,值:def
 ```
